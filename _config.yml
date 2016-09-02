@@ -1,6 +1,6 @@
 # Site settings
-title: PHOTORAMA
-email: ""
+title: FotoNut, New Zealand
+email: "fotonut.nz@gmail.com"
 description: "Photo Journal"
 url: "http://fotonut.github.io"
 baseurl: "/fotonut"
@@ -15,7 +15,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   fotonut
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
