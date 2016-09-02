@@ -2,7 +2,7 @@
 title: PHOTORAMA
 email: ""
 description: "Photo Journal"
-url: "http://fotonut.github.com"
+url: "http://fotonut.github.io"
 baseurl: "/fotonut"
 facebook_username: ""
 twitter_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "http://fotonut.github.com/photorama/gallery/"  
-  - JOURNAL: "http://fotonut.github.com/photorama/journal/"
-  - ABOUT: "http://fotonut.github.com/photorama/about/"
+  - GALLERY: "http://fotonut.github.io/photorama/gallery/"  
+  - JOURNAL: "http://fotonut.github.io/photorama/journal/"
+  - ABOUT: "http://fotonut.github.io/photorama/about/"
 
 # All translation keys
 translations:
