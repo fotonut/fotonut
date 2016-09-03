@@ -5,7 +5,6 @@ description: "Photo Journal"
 url: "http://fotonut.github.io"
 baseurl: "/fotonut"
 flickr_username: "fotonutnz"
-facebook_username: ""
 github_username:  ""
 discus_shortname: ""
 share: true
