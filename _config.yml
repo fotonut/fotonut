@@ -4,12 +4,9 @@ email: "fotonut.nz@gmail.com"
 description: "Photo Journal"
 url: "http://fotonut.github.io"
 baseurl: "/fotonut"
+flickr_username: "fotonutnz"
 facebook_username: ""
-twitter_username: ""
-instagram_username: ""
 github_username:  ""
-deviantart_username: ""
-flickr_username: ""
 discus_shortname: ""
 share: true
 
