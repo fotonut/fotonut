@@ -29,7 +29,7 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "http://fotonut.github.io/fotonut/gallery/"  
+  - PORTFOLIO: "http://fotonut.github.io/fotonut/gallery/"  
   - ABOUT: "http://fotonut.github.io/fotonut/about/"
 
 # All translation keys
