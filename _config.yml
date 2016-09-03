@@ -29,9 +29,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "http://fotonut.github.io/photorama/gallery/"  
-  - JOURNAL: "http://fotonut.github.io/photorama/journal/"
-  - ABOUT: "http://fotonut.github.io/photorama/about/"
+  - GALLERY: "http://fotonut.github.io/fotonut/gallery/"  
+  - JOURNAL: "http://fotonut.github.io/fotonut/journal/"
+  - ABOUT: "http://fotonut.github.io/fotonut/about/"
 
 # All translation keys
 translations:
